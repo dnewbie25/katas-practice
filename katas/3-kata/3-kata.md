@@ -88,6 +88,6 @@ function onlyDuplicates(str) {
 
 ## Notes about the interesting one:
 
-It is complex to understand at first what it does. But it was very clever the way they did it. The part that confused me was the use of `filter()`, but then I realized it is filtering characters whose first index is different from the last index. That way they remove all characters with the same first and last index because it would mean those characters only appear at those specific positions and hence they are not duplicated across the string.
+It is complex to understand at first what it does. But it was very clever the way they did it. The part that confused me was the use of `filter()`, but then I realized it is filtering characters whose first index is different from the last index they appear in the string. That way they remove all characters with the same first and last index because it would mean those characters only appear at those specific positions and hence they are not duplicated across the string.
 
 ---

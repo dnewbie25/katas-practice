@@ -1,8 +1,13 @@
 # Practice Katas Repository
 
 
-Kata completion journal repository.
+Codewars Katas and Leetcode completion journal repository.
 
+In Codewars Katas are ranked by Kyu, with 8 the easiest and 1 the hardest. 
+
+Leetcode problems are ranked as Easy, Medium and Hard.
+
+I choose to use both platforms because from doing a research, Leetcode keep showing up more in technical interviews, whereas Codewars has a more straightforward way to rank the difficulty of an exercise.
 
 ---
 

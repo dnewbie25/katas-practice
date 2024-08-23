@@ -36,7 +36,7 @@ describe('Basic tests', function () {
 
 ## Notes
 
-Notes here
+Although this one was fairly easy for me as a 6 kyu kata, I think I still struggled to make the code compact. I tend to write more than needed just to keep track of each step of the process
 
 ## My solution with comments:
 
@@ -78,16 +78,16 @@ You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](https://example.com)*
+> by *[dinglemouse](https://www.codewars.com/users/dinglemouse)*
 
 ```js
-
-//interesting solution here
-
+function onlyDuplicates(str) {
+  return str.split('').filter(e => str.indexOf(e) != str.lastIndexOf(e)).join('')
+}
 ```
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
+It is complex to understand at first what it does. But it was very clever the way they did it. The part that confused me was the use of `filter()`, but then I realized it is filtering characters whose first index is different from the last index. That way they remove all characters with the same first and last index because it would mean those characters only appear at those specific positions and hence they are not duplicated across the string.
 
 ---

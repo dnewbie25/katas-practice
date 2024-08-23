@@ -81,3 +81,5 @@ function squareSum(numbers)
 ## Notes about the interesting one:
 
 Using the math module for something that can be solved easily with `**`
+
+---

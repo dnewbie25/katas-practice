@@ -21,6 +21,7 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 22 Aug 2024 | Square(n) Sum	 | 8 Kyu | [1-kata.js](./katas/1-kata/1-kata.js) | [1-kata.md](./katas/1-kata/1-kata.md) | 15 min | Pass | [https://shorturl.at/0tkiT](https://shorturl.at/5miKL) |
 | 22 Aug 2024 | Arguments to Binary addition	 | 8 Kyu | [2-kata.js](./katas/2-kata/2-kata.js) | [2-kata.md](./katas/2-kata/2-kata.md) | 1 h | Pass | [https://shorturl.at/r0I3K](https://shorturl.at/r0I3K)  |
 | 23 Aug 2024 | Only Duplicates	 | 6 Kyu | [3-kata.js](./katas/3-kata/3-kata.js) | [3-kata.md](./katas/3-kata/3-kata.md) | 1 h | Pass | [https://shorturl.at/S8KG9](https://shorturl.at/S8KG9)  |
+| 24 Aug 2024 | Convert number to reversed array of digits | 8 Kyu | [4-kata.js](./katas/4-kata/4-kata.js) | [4-kata.md](./katas/4-kata/4-kata.md) | 30 min | Pass | [https://shorturl.at/W6Lh4](https://shorturl.at/W6Lh4)  |
 
 
 

@@ -102,7 +102,7 @@ You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[evk](https://www.codewars.com/users/evk)*
+> by *[evk](https://www.codewars.com/kata/reviews/57642a95dee2da8dd3000163/groups/5771cd10509c65fecd000018)*
 
 ```js
 

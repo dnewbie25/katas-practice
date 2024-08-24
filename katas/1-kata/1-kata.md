@@ -63,7 +63,7 @@ You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[kobiorhs](https://www.codewars.com/users/kobiorhs)*
+> by *[kobiorhs](https://www.codewars.com/kata/reviews/516f30277c907a79f2000549/groups/54cd0c0253e8c11e01000543)*
 
 ```js
 

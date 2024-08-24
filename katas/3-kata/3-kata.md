@@ -78,7 +78,7 @@ You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[dinglemouse](https://www.codewars.com/users/dinglemouse)*
+> by *[dinglemouse](https://www.codewars.com/kata/reviews/5a1dca7be8193f08c40038f1/groups/5a1e047019b112fef4002b56)*
 
 ```js
 function onlyDuplicates(str) {

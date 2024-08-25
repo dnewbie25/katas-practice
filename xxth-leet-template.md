@@ -1,15 +1,13 @@
-# XXth Kata -- kataNameHere
+# XXth -- LeetCode question name
 
 
 
 
 
-by *[usernameHere](https://www.codewars.com/users/username)*
+by *[usernameHere](https://leetcode.com/u/username/)*
 
 
 ## Task
-
-### kataNameHere
 
 Explanation here
 
@@ -50,7 +48,7 @@ Notes here
 
 ```
 
-## Interesting Kata solution:
+## Interesting LeetCode solution:
 > by *[somebody](https://example.com)*
 
 ```js
@@ -61,6 +59,6 @@ Notes here
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
+Interesting leetcode solution notes here
 
 ---

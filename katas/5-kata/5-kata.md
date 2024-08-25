@@ -39,7 +39,7 @@ describe("howMuchILoveYou", function () {
 
 ## Notes
 
-Notes here
+Got some issues with the 6th petal. I was able to solve the problem although it was overcomplicated for the task
 
 ## My solution with comments:
 

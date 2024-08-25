@@ -23,7 +23,8 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 23 Aug 2024 | Only Duplicates	 | 6 Kyu | [3-kata.js](./katas/3-kata/3-kata.js) | [3-kata.md](./katas/3-kata/3-kata.md) | 1 h | Pass | [https://shorturl.at/S8KG9](https://shorturl.at/S8KG9)  |
 | 24 Aug 2024 | Convert number to reversed array of digits | 8 Kyu | [4-kata.js](./katas/4-kata/4-kata.js) | [4-kata.md](./katas/4-kata/4-kata.md) | 15 min | Pass | [https://shorturl.at/W6Lh4](https://shorturl.at/W6Lh4)  |
 | 25 Aug 2024 | I love you, a little , a lot, passionately ... not at all (JavaScript) | 8 Kyu | [5-kata.js](./katas/5-kata/5-kata.js) | [5-kata.md](./katas/5-kata/5-kata.md) | 25 min | Pass | [https://shorturl.at/zei1t](https://shorturl.at/zei1t)  |
-| 26 Aug 2024 | Contains Duplicate | Easy (LeetCode) | [1-leet.js](./leetcode/1-leet/1-leet.js) | [1-leet.md](./leetcode/1-leet/1-leet.md) | 25 min | Pass | [https://shorturl.at/1tPtL](https://shorturl.at/1tPtL)  |
+| 25 Aug 2024 | Contains Duplicate | Easy (LeetCode) | [1-leet.js](./leetcode/1-leet/1-leet.js) | [1-leet.md](./leetcode/1-leet/1-leet.md) | 25 min | Pass | [https://shorturl.at/1tPtL](https://shorturl.at/1tPtL)  |
+| 25 Aug 2024 | Valid Anagram | Easy (LeetCode) | [2-leet.js](./leetcode/2-leet/2-leet.js) | [2-leet.md](./leetcode/2-leet/2-leet.md) | 10 min | Pass | [https://shorturl.at/yxMHI](https://shorturl.at/yxMHI)  |
 
 
 

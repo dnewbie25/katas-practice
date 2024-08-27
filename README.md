@@ -27,7 +27,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 25 Aug 2024 | Valid Anagram | Easy (LeetCode) | [2-leet.js](./leetcode/2-leet/2-leet.js) | [2-leet.md](./leetcode/2-leet/2-leet.md) | 10 min | Pass | [https://shorturl.at/yxMHI](https://shorturl.at/yxMHI)  | 7 |
 | 26 Aug 2024 | Two Sum | Easy (LeetCode) | [3-leet.js](./leetcode/3-leet/3-leet.js) | [3-leet.md](./leetcode/3-leet/3-leet.md) | 40 min | Pass | [https://shorturl.at/t8YA8](https://shorturl.at/t8YA8)  | 8 |
 | 26 Aug 2024 | String ends with? | 7 Kyu | [6-kata.js](./katas/6-kata/6-kata.js) | [6-kata.md](./katas/6-kata/6-kata.md) | 10 min | Pass | [https://shorturl.at/vBDBK](https://shorturl.at/vBDBK)  | 9 |
-
-
+| 27 Aug 2024 | Bit Counting | 6 Kyu | [7-kata.js](./katas/7-kata/7-kata.js) | [7-kata.md](./katas/7-kata/7-kata.md) | 20 min | Pass | [https://shorturl.at/PLGxk](https://shorturl.at/PLGxk)  | 10 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)

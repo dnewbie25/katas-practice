@@ -29,5 +29,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 26 Aug 2024 | String ends with? | 7 Kyu | [6-kata.js](./katas/6-kata/6-kata.js) | [6-kata.md](./katas/6-kata/6-kata.md) | 10 min | Pass | [https://shorturl.at/vBDBK](https://shorturl.at/vBDBK)  | 9 |
 | 27 Aug 2024 | Bit Counting | 6 Kyu | [7-kata.js](./katas/7-kata/7-kata.js) | [7-kata.md](./katas/7-kata/7-kata.md) | 20 min | Pass | [https://shorturl.at/PLGxk](https://shorturl.at/PLGxk)  | 10 |
 | 27 Aug 2024 | Multiples of 3 or 5 | 6 Kyu | [8-kata.js](./katas/8-kata/8-kata.js) | [8-kata.md](./katas/8-kata/8-kata.md) | 15 min | Pass | [https://shorturl.at/b7ZtA](https://shorturl.at/b7ZtA)  | 11 |
+| 27 Aug 2024 | Human Readable Time | 5 Kyu | [9-kata.js](./katas/9-kata/9-kata.js) | [9-kata.md](./katas/9-kata/9-kata.md) | 30 min | Pass | [https://shorturl.at/7Nh79](https://shorturl.at/7Nh79)  | 12 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)

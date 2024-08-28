@@ -32,5 +32,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 27 Aug 2024 | Human Readable Time | 5 Kyu | [9-kata.js](./katas/9-kata/9-kata.js) | [9-kata.md](./katas/9-kata/9-kata.md) | 30 min | Pass | [https://shorturl.at/7Nh79](https://shorturl.at/7Nh79)  | 12 |
 | 27 Aug 2024 | Last | 7 Kyu | [10-kata.js](./katas/10-kata/10-kata.js) | [10-kata.md](./katas/10-kata/10-kata.md) | 40 min | Pass | [https://shorturl.at/1FAfj](https://shorturl.at/1FAfj)  | 14 |
 | 27 Aug 2024 | Group Anagrams | Medium (LeetCode) | [4-leet.js](./leetcode/4-leet/4-leet.js) | [4-leet.md](./leetcode/4-leet/4-leet.md) | 45 min | Pass | [https://shorturl.at/l4NXO](https://shorturl.at/l4NXO)  | 15 |
+| 27 Aug 2024 | Highest Value Pyramid | 7 Kyu | [11-kata.js](./katas/11-kata/11-kata.js) | [11-kata.md](./katas/11-kata/11-kata.md) | 1h 30 min | Pass | [https://shorturl.at/PLjVV](https://shorturl.at/PLjVV)  | 16 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)

@@ -237,6 +237,6 @@ function pyramid(stones) {
 
 ## Notes about the interesting one:
 
-Logically, both solution do the same. They separate the numbers into possible candidates and then search for the better combination that gets the higher sum, but their solutions is more legible than mine. That's why I found it useful.
+Logically, both solutions do the same. They separate the numbers into possible candidates and then search for the better combination that gets the higher sum, but their solution is more legible than mine. That's why I found it useful.
 
 ---

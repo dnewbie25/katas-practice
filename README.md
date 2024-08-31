@@ -35,5 +35,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 27 Aug 2024 | Highest Value Pyramid | 7 Kyu | [11-kata.js](./katas/11-kata/11-kata.js) | [11-kata.md](./katas/11-kata/11-kata.md) | 2 h 30 min | Pass | [https://shorturl.at/PLjVV](https://shorturl.at/PLjVV)  | 16 |
 | 28 Aug 2024 | Top K Frequent Elements | Medium (LeetCode) | [5-leet.js](./leetcode/5-leet/5-leet.js) | [5-leet.md](./leetcode/5-leet/5-leet.md) | 40 min | Pass | [https://shorturl.at/dW9HE](https://shorturl.at/dW9HE)  | 17 |
 | 29 Aug 2024 | Array.diff | 6 Kyu | [12-kata.js](./katas/12-kata/12-kata.js) | [12-kata.md](./katas/12-kata/12-kata.md) | 10 min | Pass | [https://shorturl.at/1xFQh](https://shorturl.at/1xFQh)  | 18 |
+| 30 Aug 2024 | Highest and Lowest	 | 7 Kyu | [13-kata.js](./katas/13-kata/13-kata.js) | [13-kata.md](./katas/13-kata/13-kata.md) | 15 min | Pass | [https://shorturl.at/bOOb3](https://shorturl.at/bOOb3)  | 19 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)

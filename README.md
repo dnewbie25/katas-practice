@@ -38,5 +38,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 30 Aug 2024 | Highest and Lowest	 | 7 Kyu | [13-kata.js](./katas/13-kata/13-kata.js) | [13-kata.md](./katas/13-kata/13-kata.md) | 15 min | Pass | [https://shorturl.at/bOOb3](https://shorturl.at/bOOb3)  | 19 |
 | 31 Aug 2024 | Vowel Count	 | 7 Kyu | [14-kata.js](./katas/14-kata/14-kata.js) | [14-kata.md](./katas/14-kata/14-kata.md) | 10 min | Pass | [https://shorturl.at/DIpdC](https://shorturl.at/DIpdC)  | 20 |
 | 1 Sep 2024 | Encode and Decode Strings | Medium (LintCode) | [6-leet.js](./leetcode/6-leet/6-leet.js) | [6-leet.md](./leetcode/6-leet/6-leet.md) | 1 h 20 min | Pass | [https://shorturl.at/ub8ZB](https://shorturl.at/ub8ZB)  | 21 |
+| 2 Sep 2024 | Reversed Strings	 | 8 Kyu | [15-kata.js](./katas/15-kata/15-kata.js) | [15-kata.md](./katas/15-kata/15-kata.md) | 10 min | Pass | [https://shorturl.at/M6Ya8](hhttps://shorturl.at/M6Ya8)  | 22 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)

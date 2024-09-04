@@ -1,5 +1,7 @@
 # Practice Katas Repository
 
+[Now working in this other repository due to an error with the GitHub SSH, I was forced to recreate the repository](https://github.com/dnewbie25/data-structures-and-algorithms-exercises)
+
 
 Codewars Katas and Leetcode completion journal repository.
 
